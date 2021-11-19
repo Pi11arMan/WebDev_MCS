@@ -1,0 +1,16 @@
+@font-face {
+	src: url(../font/GOST_type_B.ttf);
+	font-family: 'GOST-type-B';
+	font-weight: normal;
+	font-style: normal;
+}
+
+.heading h1 {
+	font-size: 50px;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.paragraph p {
+	font-family: 'GOST-type-B';
+}
